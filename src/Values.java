@@ -1,3 +1,3 @@
 public enum Values {
-    ROCK, PAPER, SCISSORS
+    ROCK, PAPER, SCISSORS, LIZARD, SPOK
 }
